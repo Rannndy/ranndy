@@ -2,10 +2,10 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return `_Loading..._`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done Ngabb`
 }
 
 exports.err = () => {
@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu DewataBotz :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -791,6 +791,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
+├ WrannGamteng
+├ RandyTamfaan
 ╰❒ And All Support
     `
 }
@@ -826,7 +828,7 @@ Sanksi: *PERMANENT BLOCK*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan DewataBotz di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
 😖🙏
@@ -854,7 +856,7 @@ Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+*-------「 DONASI 」 -------*
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
@@ -1465,6 +1467,8 @@ exports.tqto = () =>{
 ├ Rashid
 ├ ZeeoneOfc
 ├ Penyedia Module
+├ WrannGamteng
+├ RandyTamfaan
 ╰❒ And All Support
 `
 }
